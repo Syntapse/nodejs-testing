@@ -8,7 +8,7 @@ const readline = require('readline').createInterface({
     output: process.stdout
   })
   
-  readline.question(`What's your guess? `, (guess) => {
+  readline.question(`What's your guess 1 through 5? `, (guess) => {
     if(guess == getRandomInt(5)) {
         console.log('Good Job!')
     }else {
