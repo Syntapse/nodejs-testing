@@ -8,3 +8,9 @@ function nobt() {
     }   
 }
 nobt();
+/*
+N - Not
+O - Once
+B - But
+T - Twice
+*/
