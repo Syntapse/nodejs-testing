@@ -9,7 +9,7 @@ const readline = require('readline').createInterface({
   })
   
   readline.question(`What's your guess? `, (guess) => {
-    if(guess == getRandomInt(10)) {
+    if(guess == getRandomInt(5)) {
         console.log('Good Job!')
     }else {
         console.log('Nice try! But incorrect')
