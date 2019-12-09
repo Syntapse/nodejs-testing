@@ -11,7 +11,8 @@ const readline = require('readline').createInterface({
   readline.question(`What's your guess 1 through 5? `, (guess) => {
     if(guess == getRandomInt(5)) {
         console.log('Good Job!')
-    }else {
+    }
+    else {
         console.log('Nice try! But incorrect')
     }
     process.exit(1);
