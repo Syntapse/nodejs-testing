@@ -15,5 +15,5 @@ const readline = require('readline').createInterface({
     else {
         console.log('Nice try! But incorrect')
     }
-    process.exit(1);
+    process.exit(0);
   })
