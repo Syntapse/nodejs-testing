@@ -1,4 +1,4 @@
 {
-    "dimmer.enabled": true,
+    "dimmer.enabled": false,
     "dimmer.opacity": 50
 }
