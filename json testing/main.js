@@ -9,4 +9,3 @@ var pets = {
 
 console.log(owners.a +" owns a "+ pets.a +" and "+ owners.b+ " owns a "+ pets.b)
 
-// test
