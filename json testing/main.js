@@ -3,7 +3,7 @@ var owners = {
     "b": "Cathrine"
 }
 var pets = {
-    "a": "Cat",
+    "a": "cat",
     "b": "Parrot"
 }
 
