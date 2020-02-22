@@ -1,5 +1,4 @@
-function nobt() {
-    butthis = 4
+function nobt(butthis) {
     for (let number = 1; number < butthis; number++) {
     console.log('Not '+number+'th')
     }
@@ -7,7 +6,7 @@ function nobt() {
     console.log('But '+number+'th')
     }   
 }
-nobt();
+nobt(5);
 /*
 N - Not
 O - Once
