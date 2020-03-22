@@ -1,4 +1,5 @@
 {
     "dimmer.enabled": false,
-    "dimmer.opacity": 50
+    "dimmer.opacity": 50,
+    "discord.enabled": false
 }
